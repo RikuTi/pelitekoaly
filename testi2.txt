@@ -9,8 +9,8 @@
 9;There. Wait here and I'll distract them so that you can get to the space ship.;9;
 10;Ok.;-1;
 11;Yes, sir Robot;-1;
-12;No problemo;-1;
+12;I dont care;-3;
 13;They're dangerous. Wait here and I'll distract them so that you can get to the space ship.;13;
 14;ok;-1;
-15;Yes, sir Robot.;-1;
-16;No problemo;-1;
+15;Just leave me alone.;-2;
+16;Not my problem beat it;-3;
